@@ -22,6 +22,6 @@ coding_challenge1 = function(x){
   for(i in 1:length(s)){
     print(s[i])
   }
-  print("Suma m·xima")
+  print("Suma m√°xima")
   print(max(s))
 }
