@@ -1,8 +1,10 @@
 # Youtube Codes
 
+![youtube](youtube.jpg)
+
 Welcome to the scripts I have created in my [YouTube Channel](https://www.youtube.com/channel/UC4jmaY21ri9n3DteRwuoJaA?view_as=subscriber). Some things you have to know when opening this cool repo.
 
-0. If you are a **recruiter**, don't expect this repo to have best practices. Files here are just a bunch of scripts/notebooks I make to explain simple concepts.
+0. If you are a **recruiter**, don't expect this repo to have best practices. Files here are just a bunch of scripts/notebooks I make to explain simple concepts. I think it's cool that I record everything in at least one place.
 
 1. I **stopped making videos in spanish**. Many subscribers still think I keep doing videos in spanish but that's not the case. I decided that by doing my videos in english I could potentially reach more people. Also if you want to be a good software developer, you should speak and write english correctly.
 
