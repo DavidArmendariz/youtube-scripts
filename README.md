@@ -1,4 +1,4 @@
-# Youtube Codes
+# Youtube scripts
 
 ![youtube](youtube.jpg)
 
